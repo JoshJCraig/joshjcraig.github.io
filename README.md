@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages profile!
 
-[Personal Info](https:///joshjcraig.github.io) | [Interest in IT](https://joshjcraig.github.io/interest) | [Ideal Job] | [Personal Profile] | [Project Idea]
+[Personal Info](https:///joshjcraig.github.io) | [Interest in IT](https://joshjcraig.github.io/interest) | [Ideal Job](https://joshjcraig.github.io/idealjob) | [Personal Profile] | [Project Idea]
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
